@@ -21,6 +21,8 @@ The project includes:
 - Bar plots
 - Customer segmentation visuals
 
+![Sales Dashboard](Power BI Dasboard ss/Power BI Dashboard (Page 1))
+
 - ## Dataset
 
 - Source: Kaggle
