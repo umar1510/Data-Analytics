@@ -21,7 +21,7 @@ The project includes:
 - Bar plots
 - Customer segmentation visuals
 
-![Sales Dashboard](e-commerce-toys-store/Power BI Dashboard ss/Power BI Dashboard (Page 1).png)
+![Sales Dashboard](Power%20BI%20Dashboard%20ss/Power%20BI%20Dashboard%20(Page 1).png)
 
 - ## Dataset
 
