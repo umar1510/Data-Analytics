@@ -21,7 +21,7 @@ The project includes:
 - Bar plots
 - Customer segmentation visuals
 
-![Sales Dashboard](Power%20BI%20Dashboard%20ss/Power%20BI%20Dashboard%20(Page 1).png)
+![Power BI Dashboard](Power%20BI%20Dashboard%20ss/Power%20BI%20Dashboard%20(Page%201).png)
 
 - ## Dataset
 
