@@ -23,6 +23,17 @@ This project analyzes customer shopping behavior using Python, Pandas, SQL, and 
 - Perform customer segmentation
 - Generate actionable business insights
 
+## Visualizations
+
+The project includes:
+
+- Sales trend charts
+- Trend
+- Bar plots
+- Customer segmentation visuals
+
+![Power BI Dashboard](power_bi_dashboard_ss/powerbi_dashboard.png)
+
 - ## Dataset
 
 - Source: Github
