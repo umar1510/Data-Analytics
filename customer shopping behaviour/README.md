@@ -1,5 +1,15 @@
 # Customer Shopping Behavior Analysis
 
+## Author
+
+Muhammad Umar  
+
+Data Analyst | Python | SQL | Power BI
+
+📧 Email: umarmaqsood834@gmail.com  
+
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-umar-b535591a2/
+
 ## Project Overview
 
 This project analyzes customer shopping behavior using Python, Pandas, SQL, and data visualization techniques. The goal was to identify customer segments, purchasing trends, and revenue patterns to help improve business decision-making.
