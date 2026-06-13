@@ -8,7 +8,7 @@ Data Analyst | Python | SQL | Power BI
 
 📧 Email: umarmaqsood834@gmail.com  
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-umar-b535591a2/
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-umar-analyst/
 
 ## Project Overview
 
